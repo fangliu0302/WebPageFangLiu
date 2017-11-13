@@ -100,6 +100,22 @@
 
 		  <li class="fa-bookmark">
                     <p align="justify">
+                      <B>Information Directed Sampling for Stochastic Bandits with Graph Feedback</B><br />
+                      <I><B>Fang Liu</B>, Swapna Buccapatnam, Ness Shroff</I><br />
+                      The Thirty-Second AAAI Conference on Artificial Intelligence (<B>AAAI 2018</B>)<br /> 
+                    </p>
+                  </li>
+
+		  <li class="fa-bookmark">
+                    <p align="justify">
+                      <B>A Change-Detection based Framework for Piecewise-stationary Multi-Armed Bandit Problem</B><br />
+                      <I><B>Fang Liu</B>, Joohyun Lee, Ness Shroff</I><br />
+                      The Thirty-Second AAAI Conference on Artificial Intelligence (<B>AAAI 2018</B>)<br /> 
+                    </p>
+                  </li>
+
+		  <li class="fa-bookmark">
+                    <p align="justify">
                       <B>iMUTE: Energy-optimal Update Policy for Perishable Mobile Contents</B><br />
                       <I>Joohyun Lee, <B>Fang Liu</B>, Kyunghan Lee, Ness Shroff</I><br />
                       The 25th IEEE International Conference on Network Protocols (<B>ICNP 2017</B>)<br />
