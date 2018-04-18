@@ -100,6 +100,15 @@
 
 		  <li class="fa-bookmark">
                     <p align="justify">
+                      <B>UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits</B><br />
+                      <I><B>Fang Liu</B>, Sinong Wang, Swapna Buccapatnam, Ness Shroff</I><br />
+                      The Twenty-Seventh International Joint Conference on Artificial Intelligence (<B>IJCAI 2018</B>)<br />
+		      <!--[<a href="http://arxiv.org/abs/1711.03198">pdf</a>]-->
+                    </p>
+                  </li>
+
+		  <li class="fa-bookmark">
+                    <p align="justify">
                       <B>Information Directed Sampling for Stochastic Bandits with Graph Feedback</B><br />
                       <I><B>Fang Liu</B>, Swapna Buccapatnam, Ness Shroff</I><br />
                       The Thirty-Second AAAI Conference on Artificial Intelligence (<B>AAAI 2018</B>)<br />
