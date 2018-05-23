@@ -100,10 +100,19 @@
 
 		  <li class="fa-bookmark">
                     <p align="justify">
+                      <B>Analysis of Thompson Sampling for Graphical Bandits Without the Graphs</B><br />
+                      <I><B>Fang Liu</B>, Zizhan Zheng, Ness Shroff</I><br />
+                      The Thirty-Fourth Conference on Uncertainty in Artificial Intelligence (<B>UAI 2018</B>)<br />
+                    </p>
+                  </li>
+
+		  <li class="fa-bookmark">
+                    <p align="justify">
                       <B>UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits</B><br />
                       <I><B>Fang Liu</B>, Sinong Wang, Swapna Buccapatnam, Ness Shroff</I><br />
                       The Twenty-Seventh International Joint Conference on Artificial Intelligence (<B>IJCAI 2018</B>)<br />
 		      [<a href="https://arxiv.org/abs/1804.05929">pdf</a>]
+		      The Third Information Modeling, Analysis, and Control of Complex Systems Workshop (<B>IMACCS 2018</B>)<br />
                     </p>
                   </li>
 
@@ -193,6 +202,14 @@
                       <B>Graduate Student Research Assistant, The Ohio State University</B><br />
                       Advised by Prof. Ness Shroff<br />
                       <I>Aug. 2014 - Present</I>
+                    </p>
+                  </li>
+
+		 <li class="fa-flask">
+                    <p align="justify">
+                      <B>Student Intern Technical II, AT&#38T Labs Research </B><br />
+                      Advised by Jim Strydio, Prafulla Verma<br />
+                      <I>May 2018 - July 2018</I>
                     </p>
                   </li>
 
