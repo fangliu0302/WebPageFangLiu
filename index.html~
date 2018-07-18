@@ -114,7 +114,8 @@
                       <B>UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits</B><br />
                       <I><B>Fang Liu</B>, Sinong Wang, Swapna Buccapatnam, Ness Shroff</I><br />
                       The Twenty-Seventh International Joint Conference on Artificial Intelligence (<B>IJCAI 2018</B>)<br />
-		      [<a href="https://arxiv.org/abs/1804.05929">pdf</a>]<br />
+		      [<a href="https://arxiv.org/abs/1804.05929">pdf</a>][<a href="pdf/UCBoostIJCAI18.pdf">slides</a>]<br />
+		      <iframe width="560" height="315" src="https://www.youtube.com/embed/HBnWaWDsf-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br />
 		      The Third Information Modeling, Analysis, and Control of Complex Systems Workshop (<B>IMACCS 2018</B>)<br />
 		      [<a href="pdf/UCBoostPoster.pdf">poster</a>]
                     </p>
