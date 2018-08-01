@@ -213,7 +213,7 @@
 		 <li class="fa-flask">
                     <p align="justify">
                       <B>Student Intern Technical II, AT&#38T Labs Research </B><br />
-                      Advised by Jim Strydio, Prafulla Verma<br />
+                      Advised by Russell Fischer, Jim Strydio, Prafulla Verma<br />
                       <I>May 2018 - July 2018</I>
                     </p>
                   </li>
@@ -235,6 +235,7 @@
               <div class="container">
                 <h3>Honors</h3>
                 <ul class="feature-icons">
+		  <li>UAI-18 Scholarship, 2018</li>
 		  <li>AAAI-18 Scholarship, 2018</li>
                   <li>Litton Fellowship, 2014</li>
                     <li>First Prize of SCSK Corporation Scholarship, 2013</li>
